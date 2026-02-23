@@ -13,7 +13,7 @@ The goal is to demonstrate understanding of:
 - How linked lists and algorithms operate within computer systems
 
 All code implementations are contained in separate source files within this repository.  
-This `README.md` serves as the **research documentation and presentation** for the assignment.
+This `.md` serves as the **research documentation and presentation** for the assignment.
 
 ---
 
