@@ -1,6 +1,7 @@
 ## Linked Lists – Data Structures Classification  
 **Assignment 1: Data Structures and Algorithms**
-# Juanita Mumbi BSCCS/2025/47536
+**Student Name:** Juanita Mumbi  
+**Registration Number:** BSCCS/2025/47536  
 
 ---
 
