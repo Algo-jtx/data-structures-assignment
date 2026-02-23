@@ -1,20 +1,5 @@
 ## Linked Lists – Data Structures Classification  
-**Assignment 1: Data Structures and Algorithms**
-**Student Name:** Juanita Mumbi  
-**Registration Number:** BSCCS/2025/47536  
 
----
-
-## Overview
-This project focuses on **Linked Lists** as a classification under **Non-Primitive → Linear → Dynamic Data Structures**.  
-The goal is to demonstrate understanding of:
-- What linked lists are
-- How they are classified
-- Where and why they are used
-- How linked lists and algorithms operate within computer systems
-
-All code implementations are contained in separate source files within this repository.  
-This `.md` serves as the **research documentation and presentation** for the assignment.
 
 ---
 
@@ -184,6 +169,18 @@ This project is stored in a GitHub repository as part of a group assignment.
 - All linked list implementations are included as source files
 - Each group member submits their individual GitHub account on VLMS
 - This repository demonstrates both **technical implementation** and **research understanding** -->
+
+---
+## Overview
+This project focuses on **Linked Lists** as a classification under **Non-Primitive → Linear → Dynamic Data Structures**.  
+The goal is to demonstrate understanding of:
+- What linked lists are
+- How they are classified
+- Where and why they are used
+- How linked lists and algorithms operate within computer systems
+
+All code implementations are contained in separate source files within this repository.  
+This `.md` serves as the **research documentation and presentation** for the assignment.
 
 ---
 

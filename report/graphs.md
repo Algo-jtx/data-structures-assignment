@@ -1,13 +1,7 @@
 ## Graphs – Data Structures Classification  
-**Assignment 1: Data Structures and Algorithms **  
-**Course:** Data Structures and Algorithms  
-**Student Name:** Juanita Mumbi  
-**Registration Number:** BSCCS/2025/47536  
 
 ---
 
-## 1. Overview
-This documentation presents **Graphs** as a data structure classification based on the **Data Structure Classification section (Notes 2 – VLMS)**.
 
 Graphs are used to model **relationships, connections, and dependencies** between data elements.  
 They are a core structure in modern computing systems such as operating systems, computer networks, databases, artificial intelligence, and web technologies.
