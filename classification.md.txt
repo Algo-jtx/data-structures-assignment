@@ -1,0 +1,5 @@
+# Array Operations & Complexity
+- **Traversal:** Visiting elements. Complexity: O(n).
+- **Insertion:** Shifting elements to the right. Complexity: O(n).
+- **Deletion:** Shifting elements to the left. Complexity: O(n).
+- **Search:** Checking elements one by one. Complexity: O(n).
