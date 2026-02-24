@@ -1,5 +1,4 @@
 # Primitive Data Structures – Data Structures Classification  
-
 ---
 
 Primitive data structures are the **basic building blocks of all data structures** in computer science.  
@@ -213,8 +212,8 @@ These operations are directly supported by the processor.
 - Counters and iterations (int)
 
 **Reason**
-- Supports precise calculations
-- Enables simulation and modeling
+- Supports precise calculations.
+- Enables simulation and modeling.
 
 ---
 
