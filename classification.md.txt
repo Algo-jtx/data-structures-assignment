@@ -1,0 +1,27 @@
+# Arrays
+
+## Definition
+An **array** is a collection of elements of the **same type**, stored in **contiguous memory locations**. Each element can be accessed directly using an **index**, allowing **fast random access**.
+
+- **Contiguous memory:** Elements are stored one after another in memory.
+- **Index-based access:** Allows retrieving or modifying any element in constant time.
+
+## Memory Representation
+The memory address of an element at index **i** is calculated as:
+$$Address(A[i]) = base\_address + (index \times element\_size)$$
+
+**Where:**
+- `base_address` is the address of the first element.
+- `index` is the element's position.
+- `element_size` is the size of each element in memory (e.g., 4 bytes for an integer).
+
+This formula explains why **access is $O(1)$**.
+
+## Time Complexity Table
+| Operation       | Complexity     |
+| :-------------- | :------------- |
+| Access          | $O(1)$           |
+| Search          | $O(n)$           |
+| Insert (end)    | $O(1)$ amortized |
+| Insert (middle) | $O(n)$           |
+| Delete          | $O(n)$           |
