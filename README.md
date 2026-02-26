@@ -13,6 +13,7 @@
 | Miriam Moraa | BSCCS/2025/53316 | Graphs |
 | Michelle Wambui | BSCCS/2025/53874 |  Algorithm applications |
 | Sheila | BSCCS/2025/52142 | Primitive data structures research |
+| Otieno Clyde | BSCCS/2025/53666 |  Arrays operations |
 
 Classification
 
